@@ -1,0 +1,2 @@
+1. create a repo "Study"
+2. git init
